@@ -198,13 +198,33 @@
 //     alert(a + " is equal to " + b);
 // }
 // Question 3
-var number = +prompt("Enter a number:");
-if (number > 0) {
-     alert("The number is positive");
- }
-else if (number < 0) {
-     alert("The number is negative");
-}
-else if (number == 0) {
-    alert("The number is zero");
- }
+// var number = +prompt("Enter a number:");
+// if (number > 0) {
+//      alert("The number is positive");
+//  }
+// else if (number < 0) {
+//      alert("The number is negative");
+// }
+// else if (number == 0) {
+//     alert("The number is zero");
+//  }
+// Question 4 
+// var vowel = prompt("Enter a character:");
+// if (vowel == "a" || vowel == "e" || vowel == "i" || vowel == "o" || vowel == "u") {
+//      alert("True");
+//  }
+//  else {
+//      alert("False");
+//  }
+//  Question 5
+// var correctPassword = "12345";
+// var password = prompt("Enter your password:");
+//  if (password == "") {
+//           alert("Please enter your password");
+// }
+//  else if (password == correctPassword) {
+//      alert("Correct! The password you entered matches the original password");
+//  }
+//  else {
+//      alert("Incorrect password");
+// }
